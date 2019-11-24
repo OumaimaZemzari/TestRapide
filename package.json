@@ -6,7 +6,7 @@
     "config": "^3.2.4",
     "history": "4.7.2",
     "react": "16.1.1",
-    "react-dom": "16.1.1",
+    "react-dom": "16.1.2",
     "react-redux": "5.0.7",
     "react-router-dom": "4.2.2",
     "redux": "4.0.0",
