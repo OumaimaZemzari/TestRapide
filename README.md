@@ -1,4 +1,5 @@
 
 # TestRapide
-run npm install 
+run npm install pour installer les node modules /
+
 run npm start
